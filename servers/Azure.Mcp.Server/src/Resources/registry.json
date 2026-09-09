@@ -5,6 +5,11 @@
             "title": "Microsoft Documentation Search",
             "description": "Search official Microsoft/Azure documentation to find the most relevant and trustworthy content for a user's query. This tool returns up to 10 high-quality content chunks (each max 500 tokens), extracted from Microsoft Learn and other official sources. Each result includes the article title, URL, and a self-contained content excerpt optimized for fast retrieval and reasoning. Always use this tool to quickly ground your answers in accurate, first-party Microsoft/Azure knowledge."
         },
+        "releasecommunications": {
+            "url": "https://www.microsoft.com/releasecommunications/mcp",
+            "title": "Microsoft Release Communications",
+            "description": "Query official Microsoft release communications for trusted, up-to-date Azure Updates and Microsoft AI at Work Roadmap information. Use this server to find recent Azure feature releases, retirements, availability changes, product updates, and release details by ID."
+        },
         "azd": {
             "type": "stdio",
             "command": "azd",
